@@ -9,4 +9,4 @@ For jokes source used https://icanhazdadjoke.com/ API.
 3. Activate virtual environment `venv/Scripts/activate`
 4. Install all required modules `pip install -r requiremnts.txt`
 5. Open source folder `cd src`
-6. Run telegram bot `pyhon main.py`
+6. Run telegram bot `python main.py`
